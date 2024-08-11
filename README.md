@@ -1,4 +1,5 @@
 # REST-API-with-boost
 Getting your city's weather
 ## Results:
-![image](https://github.com/user-attachments/assets/c04358a5-bb78-4c69-887f-291029377cf4)
+![image](https://github.com/user-attachments/assets/813d6603-43f4-433c-b22b-334fa700be9a)
+
